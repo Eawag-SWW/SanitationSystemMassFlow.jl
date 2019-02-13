@@ -14,7 +14,7 @@ package. It enables to
 
 2. Then the `SanitationSystemMassFlow` package is installed with the Julia command:
 ```Julia
-Pkg.clone("https://gitlab.com/scheidan/SanitationSystemMassFlow.git")
+Pkg.clone("https://github.com/Eawag-SWW/SanitationSystemMassFlow.jl")
 ```
 
 # Usage
